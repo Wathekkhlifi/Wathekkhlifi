@@ -1,16 +1,20 @@
-## Hi there 👋
+### Wathek Khlifi
 
-<!--
-**Wathekkhlifi/Wathekkhlifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack engineer in Tunis. More than five years building production systems in TypeScript,
+React/Next.js and Node.js, plus the authentication, CI/CD and deployment work around them.
 
-Here are some ideas to get you started:
+Most of my work is in private client repositories. Recent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Digital Passport** (Renault Group): corporate identity platform. RS256 SSO against an Okta/Auth0 JWKS endpoint, signed Apple Wallet passes, ERC-721 credentials. Express + PostgreSQL on Cloud Run + Cloud SQL.
+- **AGCX**: enterprise SaaS for US building commissioning. ~24 API controllers, 16 domain
+  models. Cookie-based JWT auth with refresh rotation and Redis revocation, two-tier RBAC.
+- **We Teach**: instructor sourcing for French higher education. Next.js App Router,
+  TypeScript, four-role RBAC, KYC compliance.
+- **Alecso NFT** ([nft.alecso.org](https://nft.alecso.org)): educational credentialing for the
+  Arab League's education agency. Three Solidity contracts, Arabic-first RTL frontend.
+
+Currently going deeper on platform engineering: Kubernetes and Terraform.
+
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `MongoDB` `Redis` `Docker` `GitLab CI` `OAuth/OIDC`
+
+[LinkedIn](https://linkedin.com/in/khlifiwathek) · khlifi.wathek@gmail.com
